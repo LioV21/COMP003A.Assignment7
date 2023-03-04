@@ -1,6 +1,6 @@
 /*
 *  Author: Lionel Villanueva
-* Couse: COMP003A
+* Course: COMP-003A
 * Pupose: Basic Data Structures
 */
 
