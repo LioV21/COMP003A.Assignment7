@@ -1,5 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+/*
+*  Author: Lionel Villanueva
+* Couse: COMP003A
+* Pupose: Basic Data Structures
+*/
 
 class Program
 {
